@@ -1,0 +1,66 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+arm64/
+[Aa]rm/
+x64/
+x86/
+
+# Test and coverage output
+[Tt]est[Rr]esults/
+TestResults/
+*.trx
+coverage/
+coverage*.json
+
+# NuGet and package output
+packages/
+*.nupkg
+*.snupkg
+.nuget/
+
+# Generated files
+GeneratedFiles/
+*.generated.cs
+
+# Logs and local tooling output
+*.log
+*.tmp
+*.cache
+
+# ASP.NET local development secrets and certificates
+appsettings.*.local.json
+*.pfx
+
+# Publish output
+publish/
+.PublishedFiles/
+
+# Entity Framework local database files
+*.db
+*.db-shm
+*.db-wal
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Node.js frontend dependencies and build output
+node_modules/
+dist/
+
+# Operating system files
+.DS_Store
+Thumbs.db

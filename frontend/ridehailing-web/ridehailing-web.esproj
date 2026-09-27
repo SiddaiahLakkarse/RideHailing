@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.VisualStudio.JavaScript.Sdk/0.5.74">
+  <PropertyGroup>
+	<StartupCommand>npm run dev</StartupCommand>
+	<JavaScriptDebugging>true</JavaScriptDebugging>
+	<ShouldRunBuildScript>false</ShouldRunBuildScript>
+	<BrowserStartUrl>http://localhost:5173</BrowserStartUrl>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,6 @@
+@RideHailing.Api_HostAddress = http://localhost:5274
+
+GET {{RideHailing.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

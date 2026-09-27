@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RideHailing.Api/RideHailing.Api.csproj" />
+    <Project Path="src/RideHailing.Application/RideHailing.Application.csproj" />
+    <Project Path="src/RideHailing.Contracts/RideHailing.Contracts.csproj" />
+    <Project Path="src/RideHailing.Domain/RideHailing.Domain.csproj" />
+    <Project Path="src/RideHailing.Infrastructure/RideHailing.Infrastructure.csproj" />
+    <Project Path="src/RideHailing.Workers/RideHailing.Workers.csproj" />
+  </Folder>
+  <Folder Name="/frontend/">
+    <Project Path="frontend/ridehailing-web/ridehailing-web.esproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RideHailing.UnitTests/RideHailing.UnitTests.csproj" />
+  </Folder>
+</Solution>
